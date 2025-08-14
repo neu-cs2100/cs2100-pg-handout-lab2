@@ -1,4 +1,10 @@
-# Create a function that reads text files and performs word analysis.
+"""
+Please implement this function that reads text files and performs word analysis.
+It contains comments describing it, but you will need to write the documentation.
+Don't forget to test the function! (Create a small sample file, such that you know
+what output to expect.)
+
+"""
 
 def summarize_words(filename: str) -> str:
     """Reads the provided text file and performs word analysis
@@ -12,7 +18,3 @@ def summarize_words(filename: str) -> str:
     # 4. Calculate the average word length
     # 5. Return a string containing a summary of the data collected in steps 2-4.
     #    (You may choose the format of the string.)
-
-
-# Don't forget to test the function! (Create a small sample file, such that you know
-# what output to expect.)
