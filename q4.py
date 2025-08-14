@@ -1,5 +1,11 @@
 from typing import Self
 
+"""
+Please implement the Date class, including its constructor and both methods.
+There is documentation for one of the methods, but you will need to provide 
+any other necessary documentation.
+"""
+
 class Date:
     def __init__(self, day: int, month: int, year: int):
         pass
