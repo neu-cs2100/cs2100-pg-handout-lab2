@@ -1,3 +1,9 @@
+"""
+Please implement the two classes below.
+Calculator contains comments describing its methods, but you will need to write the documentation.
+Then, please put the tests in the TestCalculator class.
+"""
+
 import unittest
 
 class Calculator:
