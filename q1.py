@@ -8,7 +8,7 @@ There is an example output below.
 class BankAccount:
     pass
     # Constructor: __init__(self, holder, number)
-    # Attributes: account_holder (str), account_number (str), # balance (float, starts at 0.0)
+    # Attributes: account_holder (str), account_number (str), balance (float, starts at 0.0)
     # Methods:
     #   deposit(self, amount) - adds money to balance (must be positive)
     #   withdraw(self, amount) - subtracts money from balance (cannot overdraw)
